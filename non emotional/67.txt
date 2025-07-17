@@ -1,0 +1,3 @@
+DRS (Decision Review System) reviews can be used by teams to challenge umpire decisions on various types of dismissals, not exclusively for caught or LBW. 
+This includes potential run-outs or stumpings where the on-field umpire's decision is unclear. 
+The system aims to ensure greater accuracy in crucial decisions.
