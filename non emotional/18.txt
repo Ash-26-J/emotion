@@ -1,0 +1,3 @@
+There are ten primary methods by which a batsman can be dismissed in cricket, leading to their removal from the innings.
+These include classic dismissals like bowled, caught, and leg before wicket (LBW), alongside run out and stumped. 
+Each method has specific conditions defined in the Laws of Cricket.
