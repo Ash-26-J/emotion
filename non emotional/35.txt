@@ -1,0 +1,3 @@
+The Duckworth-Lewis-Stern (DLS) method is a mathematical formula used in rain-affected limited-overs matches to calculate revised targets.
+It accounts for overs lost and wickets fallen, ensuring a fair target for the chasing team.
+DLS provides a structured way to determine outcomes in interrupted games.
