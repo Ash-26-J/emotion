@@ -1,0 +1,3 @@
+The Decision Review System (DRS) is a technology-based system allowing teams to challenge certain on-field umpire decisions. 
+It uses ball-tracking, snickometer, and hotspot technologies to provide additional information for a third umpire to review. 
+DRS aims to reduce clear errors in umpiring.
