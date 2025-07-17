@@ -1,0 +1,3 @@
+A run is scored when batsmen successfully exchange ends after the ball has been hit.
+Multiple runs (e.g., two, three) can be accumulated from a single shot if the batsmen complete the exchanges before the ball is returned.
+Runs are the primary unit of scoring in cricket.
