@@ -1,0 +1,3 @@
+A batsman's objective is to score runs by hitting the ball and running between the wickets. 
+They also have the crucial task of defending their wicket from being hit by the bowler. 
+Batting requires a blend of defensive technique and aggressive stroke play
