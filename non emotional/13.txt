@@ -1,0 +1,3 @@
+The wicket-keeper is a specialized fielder positioned directly behind the stumps at the batsman's end.
+They are responsible for catching balls missed by the batsman, effecting stumpings, and assisting in run-outs.
+Wicket-keeping demands excellent reflexes and concentration.
