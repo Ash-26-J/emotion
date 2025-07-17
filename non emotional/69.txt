@@ -1,0 +1,3 @@
+"Net Run Rate" (NRR) is a statistical tie-breaking criterion used in limited-overs tournaments to differentiate teams with equal points.
+It is calculated by subtracting the average runs per over conceded from the average runs per over scored by a team. 
+A higher NRR indicates a more dominant performance.
