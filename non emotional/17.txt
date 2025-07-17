@@ -1,0 +1,3 @@
+A "boundary" is scored when the ball reaches or crosses the boundary rope of the playing field. 
+Four runs are awarded if the ball rolls along the ground to the boundary, while six runs are given if it clears the boundary without bouncing. 
+Boundaries are a rapid way to accumulate runs.
